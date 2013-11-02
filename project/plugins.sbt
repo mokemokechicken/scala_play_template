@@ -1,4 +1,4 @@
-scalaVersion := "2.9.2"
+// scalaVersion := "2.9.2"
 
 resolvers += "sbt-idea-repo" at "http://mpeltonen.github.com/maven/"
 
